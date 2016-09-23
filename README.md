@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/massich/gtest-demo.svg?branch=master)](https://travis-ci.org/massich/gtest-demo/builds)
-[![Coverage Status](https://coveralls.io/repos/massich/gtest-demo/badge.png?branch=master)](https://coveralls.io/r/massich/gtest-demo?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/massich/gtest-demo/badge.svg?branch=master)](https://coveralls.io/github/massich/gtest-demo?branch=master)
 [![License](https://img.shields.io/badge/license-%20BSD--3-blue.svg)](../master/LICENSE)
 
 
